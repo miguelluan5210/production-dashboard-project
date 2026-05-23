@@ -20,7 +20,7 @@ This project demonstrates a production monitoring solution where operational dat
 
 ## Dashboard Preview
 
-![Dashboard Preview]
+! [Dashboard Preview]
 (dashboard-preview.jpeg)
 
 ## Notes
