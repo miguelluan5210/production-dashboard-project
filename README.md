@@ -21,7 +21,7 @@ This project demonstrates a production monitoring solution where operational dat
 ## Dashboard Preview
 
 ![Dashboard Preview]
-(dashboard-preview.png.jpeg)
+(dashboard-preview.png)
 
 ## Notes
 All displayed data has been anonymized for confidentiality purposes.
